@@ -7,7 +7,7 @@ public class Main {
 		double d = 0.2683;
 		double c = num * d;
 
-		System.out.printf("%d * %f = %.6f", num, d, c);
+		System.out.printf("%d * %.6f = %.6f\n", num, d, c);
 
 	}
 
